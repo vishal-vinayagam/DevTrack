@@ -79,7 +79,6 @@ DevTrack is a modern productivity web app built for developers and students. It 
 ```bash
 npm install
 ```
-
 2. Start development server
 
 ```bash
